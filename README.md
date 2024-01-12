@@ -7,6 +7,7 @@ Student
 "Student at Rajamangala University of Technology Isan in the Faculty of Engineering and Technology, majoring in Computer Engineering." "I am currently learning HTML, CSS, JavaScript, and Flutter."
 
 * ✉️  You can contact me at [rangsiman.ain@gmail.com](mailto:rangsiman.ain@gmail.com)
+* Facebook [https://www.facebook.com/hesoyet.copter](https://www.facebook.com/hesoyet.copter)
 
 ### Skills
 
